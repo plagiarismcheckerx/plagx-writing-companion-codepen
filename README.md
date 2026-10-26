@@ -2,7 +2,9 @@
 
 CodePen edition of [Plagx Writing Companion](https://github.com/plagiarismcheckerx/plagx-writing-companion), a free browser-based academic writing utility by [Plagiarism Checker X](https://plagiarismcheckerx.com/).
 
-### 👉 [Click here for the live demo](https://plagiarismcheckerx.github.io/plagx-writing-companion/)
+### 👉 [Click here for the CodePen demo](https://codepen.io/plagiarismcheckerx/pen/01a176f8-e261-7484-b282-c10c03a31cbc)
+
+Full version: [plagiarismcheckerx.github.io/plagx-writing-companion](https://plagiarismcheckerx.github.io/plagx-writing-companion/)
 
 ## Files
 
